@@ -1,6 +1,6 @@
 # shadowbans
 
-![](https://makingmoneyusingsocialmedia.com/wp-content/uploads/2022/06/shadowban-instagram.png)
+![image](https://github.com/user-attachments/assets/bfe5ae31-257d-45fb-9bd1-c59da8ec7c2d)
 
 https://makingmoneyusingsocialmedia.com/wp-content/uploads/2022/06/shadowban-instagram.png
 The `shadowbans` repo documents work investigating how shadow banning contributes to invisible information in online communities. Running in collaboration with [Jef Ausloos](https://www.uva.nl/en/profile/a/u/j.ausloos/j.ausloos.html) (PI) and [Paddy Leerssen](https://www.uva.nl/en/profile/l/e/p.j.leerssen/p.j.leerssen.html).
